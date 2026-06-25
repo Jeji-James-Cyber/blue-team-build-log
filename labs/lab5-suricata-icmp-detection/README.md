@@ -95,5 +95,5 @@ Sustained ping from Kali (`192.168.1.7`) to Ubuntu (`192.168.1.4`) — 11 packet
 
 ## Related
 
-- 📝 Full blog post: [CyberTrail — Blue Team Build Log](https://hashnode.com/@your-username)
+- 📝 Full blog post: [CyberTrail — Blue Team Build Log](https://hashnode.com/@jeji-james)
 - 🔗 Series: Blue Team Build Log
