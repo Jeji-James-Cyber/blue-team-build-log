@@ -1,0 +1,399 @@
+00:00.343	ID:8	Rime started with address 0.18.116.8.0.8.8.8
+00:00.352	ID:8	MAC 00:12:74:08:00:08:08:08 Contiki-2.6-2450-geaa8760 started. Node id is set to 8.
+00:00.361	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.372	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7408:0008:0808
+00:00.374	ID:8	Starting 'UDP client process'
+00:00.376	ID:8	UDP client process started
+00:00.381	ID:8	Client IPv6 addresses: aaaa::212:7408:8:808
+00:00.383	ID:8	fe80::212:7408:8:808
+00:00.389	ID:8	Created a connection with the server :: local/remote port 8765/5678
+00:00.461	ID:11	Rime started with address 0.18.116.11.0.11.11.11
+00:00.470	ID:11	MAC 00:12:74:0b:00:0b:0b:0b Contiki-2.6-2450-geaa8760 started. Node id is set to 11.
+00:00.479	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.490	ID:11	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740b:000b:0b0b
+00:00.492	ID:11	Starting 'UDP client process'
+00:00.494	ID:11	UDP client process started
+00:00.499	ID:11	Client IPv6 addresses: aaaa::212:740b:b:b0b
+00:00.502	ID:11	fe80::212:740b:b:b0b
+00:00.506	ID:2	Rime started with address 0.18.116.2.0.2.2.2
+00:00.507	ID:11	Created a connection with the server :: local/remote port 8765/5678
+00:00.515	ID:2	MAC 00:12:74:02:00:02:02:02 Contiki-2.6-2450-geaa8760 started. Node id is set to 2.
+00:00.521	ID:6	Rime started with address 0.18.116.6.0.6.6.6
+00:00.524	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.530	ID:6	MAC 00:12:74:06:00:06:06:06 Contiki-2.6-2450-geaa8760 started. Node id is set to 6.
+00:00.535	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7402:0002:0202
+00:00.537	ID:2	Starting 'UDP client process'
+00:00.538	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.539	ID:2	UDP client process started
+00:00.544	ID:2	Client IPv6 addresses: aaaa::212:7402:2:202
+00:00.547	ID:2	fe80::212:7402:2:202
+00:00.549	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7406:0006:0606
+00:00.551	ID:6	Starting 'UDP client process'
+00:00.552	ID:2	Created a connection with the server :: local/remote port 8765/5678
+00:00.554	ID:6	UDP client process started
+00:00.558	ID:6	Client IPv6 addresses: aaaa::212:7406:6:606
+00:00.561	ID:6	fe80::212:7406:6:606
+00:00.567	ID:6	Created a connection with the server :: local/remote port 8765/5678
+00:00.597	ID:18	Rime started with address 0.18.116.18.0.18.18.18
+00:00.607	ID:18	MAC 00:12:74:12:00:12:12:12 Contiki-2.6-2450-geaa8760 started. Node id is set to 18.
+00:00.615	ID:18	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.618	ID:4	Rime started with address 0.18.116.4.0.4.4.4
+00:00.627	ID:18	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7412:0012:1212
+00:00.628	ID:4	MAC 00:12:74:04:00:04:04:04 Contiki-2.6-2450-geaa8760 started. Node id is set to 4.
+00:00.629	ID:18	Starting 'UDP client process'
+00:00.631	ID:18	UDP client process started
+00:00.636	ID:18	Client IPv6 addresses: aaaa::212:7412:12:1212
+00:00.636	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.639	ID:18	fe80::212:7412:12:1212
+00:00.644	ID:18	Created a connection with the server :: local/remote port 8765/5678
+00:00.647	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7404:0004:0404
+00:00.649	ID:4	Starting 'UDP client process'
+00:00.652	ID:4	UDP client process started
+00:00.652	ID:1	Rime started with address 0.18.116.1.0.1.1.1
+00:00.656	ID:4	Client IPv6 addresses: aaaa::212:7404:4:404
+00:00.659	ID:4	fe80::212:7404:4:404
+00:00.661	ID:1	MAC 00:12:74:01:00:01:01:01 Contiki-2.6-2450-geaa8760 started. Node id is set to 1.
+00:00.664	ID:4	Created a connection with the server :: local/remote port 8765/5678
+00:00.670	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.672	ID:7	Rime started with address 0.18.116.7.0.7.7.7
+00:00.681	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7401:0001:0101
+00:00.681	ID:7	MAC 00:12:74:07:00:07:07:07 Contiki-2.6-2450-geaa8760 started. Node id is set to 7.
+00:00.683	ID:1	Starting 'UDP client process'
+00:00.686	ID:1	UDP client process started
+00:00.690	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.690	ID:1	Client IPv6 addresses: aaaa::212:7401:1:101
+00:00.693	ID:1	fe80::212:7401:1:101
+00:00.698	ID:1	Created a connection with the server :: local/remote port 8765/5678
+00:00.701	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7407:0007:0707
+00:00.703	ID:7	Starting 'UDP client process'
+00:00.705	ID:7	UDP client process started
+00:00.710	ID:7	Client IPv6 addresses: aaaa::212:7407:7:707
+00:00.712	ID:7	fe80::212:7407:7:707
+00:00.718	ID:7	Created a connection with the server :: local/remote port 8765/5678
+00:00.721	ID:14	Rime started with address 0.18.116.14.0.14.14.14
+00:00.730	ID:14	MAC 00:12:74:0e:00:0e:0e:0e Contiki-2.6-2450-geaa8760 started. Node id is set to 14.
+00:00.733	ID:15	Rime started with address 0.18.116.15.0.15.15.15
+00:00.739	ID:14	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.742	ID:15	MAC 00:12:74:0f:00:0f:0f:0f Contiki-2.6-2450-geaa8760 started. Node id is set to 15.
+00:00.743	ID:20	Rime started with address 0.18.116.20.0.20.20.20
+00:00.744	ID:16	Rime started with address 0.18.116.16.0.16.16.16
+00:00.749	ID:14	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740e:000e:0e0e
+00:00.751	ID:15	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.751	ID:14	Starting 'UDP client process'
+00:00.753	ID:20	MAC 00:12:74:14:00:14:14:14 Contiki-2.6-2450-geaa8760 started. Node id is set to 20.
+00:00.753	ID:16	MAC 00:12:74:10:00:10:10:10 Contiki-2.6-2450-geaa8760 started. Node id is set to 16.
+00:00.754	ID:14	UDP client process started
+00:00.758	ID:14	Client IPv6 addresses: aaaa::212:740e:e:e0e
+00:00.761	ID:20	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.761	ID:14	fe80::212:740e:e:e0e
+00:00.762	ID:16	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.762	ID:15	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740f:000f:0f0f
+00:00.764	ID:15	Starting 'UDP client process'
+00:00.766	ID:15	UDP client process started
+00:00.767	ID:14	Created a connection with the server :: local/remote port 8765/5678
+00:00.771	ID:15	Client IPv6 addresses: aaaa::212:740f:f:f0f
+00:00.773	ID:20	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7414:0014:1414
+00:00.773	ID:16	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7410:0010:1010
+00:00.774	ID:15	fe80::212:740f:f:f0f
+00:00.775	ID:20	Starting 'UDP client process'
+00:00.775	ID:16	Starting 'UDP client process'
+00:00.777	ID:20	UDP client process started
+00:00.777	ID:16	UDP client process started
+00:00.779	ID:15	Created a connection with the server :: local/remote port 8765/5678
+00:00.782	ID:20	Client IPv6 addresses: aaaa::212:7414:14:1414
+00:00.782	ID:16	Client IPv6 addresses: aaaa::212:7410:10:1010
+00:00.785	ID:20	fe80::212:7414:14:1414
+00:00.785	ID:16	fe80::212:7410:10:1010
+00:00.790	ID:20	Created a connection with the server :: local/remote port 8765/5678
+00:00.791	ID:16	Created a connection with the server :: local/remote port 8765/5678
+00:00.827	ID:10	Rime started with address 0.18.116.10.0.10.10.10
+00:00.836	ID:10	MAC 00:12:74:0a:00:0a:0a:0a Contiki-2.6-2450-geaa8760 started. Node id is set to 10.
+00:00.845	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.856	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740a:000a:0a0a
+00:00.858	ID:10	Starting 'UDP client process'
+00:00.860	ID:10	UDP client process started
+00:00.865	ID:10	Client IPv6 addresses: aaaa::212:740a:a:a0a
+00:00.865	ID:12	Rime started with address 0.18.116.12.0.12.12.12
+00:00.868	ID:10	fe80::212:740a:a:a0a
+00:00.873	ID:10	Created a connection with the server :: local/remote port 8765/5678
+00:00.874	ID:12	MAC 00:12:74:0c:00:0c:0c:0c Contiki-2.6-2450-geaa8760 started. Node id is set to 12.
+00:00.883	ID:12	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.894	ID:12	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740c:000c:0c0c
+00:00.896	ID:12	Starting 'UDP client process'
+00:00.898	ID:12	UDP client process started
+00:00.903	ID:12	Client IPv6 addresses: aaaa::212:740c:c:c0c
+00:00.906	ID:12	fe80::212:740c:c:c0c
+00:00.911	ID:12	Created a connection with the server :: local/remote port 8765/5678
+00:00.979	ID:9	Rime started with address 0.18.116.9.0.9.9.9
+00:00.985	ID:5	Rime started with address 0.18.116.5.0.5.5.5
+00:00.988	ID:9	MAC 00:12:74:09:00:09:09:09 Contiki-2.6-2450-geaa8760 started. Node id is set to 9.
+00:00.990	ID:19	Rime started with address 0.18.116.19.0.19.19.19
+00:00.994	ID:5	MAC 00:12:74:05:00:05:05:05 Contiki-2.6-2450-geaa8760 started. Node id is set to 5.
+00:00.996	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.999	ID:19	MAC 00:12:74:13:00:13:13:13 Contiki-2.6-2450-geaa8760 started. Node id is set to 19.
+00:01.003	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:01.007	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7409:0009:0909
+00:01.008	ID:19	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:01.009	ID:9	Starting 'UDP client process'
+00:01.012	ID:9	UDP client process started
+00:01.014	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7405:0005:0505
+00:01.016	ID:5	Starting 'UDP client process'
+00:01.016	ID:9	Client IPv6 addresses: aaaa::212:7409:9:909
+00:01.018	ID:5	UDP client process started
+00:01.019	ID:19	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7413:0013:1313
+00:01.019	ID:9	fe80::212:7409:9:909
+00:01.021	ID:19	Starting 'UDP client process'
+00:01.023	ID:5	Client IPv6 addresses: aaaa::212:7405:5:505
+00:01.024	ID:19	UDP client process started
+00:01.024	ID:9	Created a connection with the server :: local/remote port 8765/5678
+00:01.026	ID:5	fe80::212:7405:5:505
+00:01.028	ID:19	Client IPv6 addresses: aaaa::212:7413:13:1313
+00:01.031	ID:5	Created a connection with the server :: local/remote port 8765/5678
+00:01.031	ID:19	fe80::212:7413:13:1313
+00:01.037	ID:19	Created a connection with the server :: local/remote port 8765/5678
+00:01.080	ID:17	Rime started with address 0.18.116.17.0.17.17.17
+00:01.089	ID:17	MAC 00:12:74:11:00:11:11:11 Contiki-2.6-2450-geaa8760 started. Node id is set to 17.
+00:01.098	ID:17	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:01.109	ID:17	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7411:0011:1111
+00:01.111	ID:17	Starting 'UDP client process'
+00:01.114	ID:17	UDP client process started
+00:01.118	ID:17	Client IPv6 addresses: aaaa::212:7411:11:1111
+00:01.121	ID:17	fe80::212:7411:11:1111
+00:01.127	ID:17	Created a connection with the server :: local/remote port 8765/5678
+00:01.155	ID:13	Rime started with address 0.18.116.13.0.13.13.13
+00:01.164	ID:13	MAC 00:12:74:0d:00:0d:0d:0d Contiki-2.6-2450-geaa8760 started. Node id is set to 13.
+00:01.169	ID:3	Rime started with address 0.18.116.3.0.3.3.3
+00:01.172	ID:13	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:01.179	ID:3	MAC 00:12:74:03:00:03:03:03 Contiki-2.6-2450-geaa8760 started. Node id is set to 3.
+00:01.183	ID:13	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740d:000d:0d0d
+00:01.185	ID:13	Starting 'UDP client process'
+00:01.187	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:01.188	ID:13	UDP client process started
+00:01.192	ID:13	Client IPv6 addresses: aaaa::212:740d:d:d0d
+00:01.195	ID:13	fe80::212:740d:d:d0d
+00:01.198	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7403:0003:0303
+00:01.200	ID:3	Starting 'UDP client process'
+00:01.200	ID:13	Created a connection with the server :: local/remote port 8765/5678
+00:01.203	ID:3	UDP client process started
+00:01.207	ID:3	Client IPv6 addresses: aaaa::212:7403:3:303
+00:01.210	ID:3	fe80::212:7403:3:303
+00:01.215	ID:3	Created a connection with the server :: local/remote port 8765/5678
+01:01.332	ID:12	DATA send to 1 'temperature 36.31 oC oxygen_level 92 heart_rate 81'
+01:02.744	ID:18	DATA send to 1 'temperature 36.77 oC oxygen_level 98 heart_rate 23'
+01:05.187	ID:5	DATA send to 1 'temperature 36.83 oC oxygen_level 96 heart_rate 45'
+01:09.524	ID:4	DATA send to 1 'temperature 34.79 oC oxygen_level 96 heart_rate 57'
+01:11.758	ID:17	DATA send to 1 'temperature 34.30 oC oxygen_level 85 heart_rate 72'
+01:14.130	ID:3	DATA send to 1 'temperature 37.62 oC oxygen_level 91 heart_rate 44'
+01:17.036	ID:15	DATA send to 1 'temperature 36.54 oC oxygen_level 87 heart_rate 24'
+01:17.710	ID:20	DATA send to 1 'temperature 34.32 oC oxygen_level 83 heart_rate 58'
+01:21.029	ID:8	DATA send to 1 'temperature 35.55 oC oxygen_level 86 heart_rate 69'
+01:25.413	ID:7	DATA send to 1 'temperature 35.02 oC oxygen_level 81 heart_rate 96'
+01:29.082	ID:19	DATA send to 1 'temperature 35.94 oC oxygen_level 93 heart_rate 36'
+01:29.317	ID:6	DATA send to 1 'temperature 37.85 oC oxygen_level 96 heart_rate 83'
+01:33.476	ID:20	DATA send to 1 'temperature 35.32 oC oxygen_level 81 heart_rate 22'
+01:36.983	ID:11	DATA send to 1 'temperature 35.78 oC oxygen_level 97 heart_rate 68'
+01:38.051	ID:19	DATA send to 1 'temperature 37.58 oC oxygen_level 91 heart_rate 64'
+01:41.404	ID:10	DATA send to 1 'temperature 35.25 oC oxygen_level 86 heart_rate 95'
+01:45.610	ID:9	DATA send to 1 'temperature 36.08 oC oxygen_level 81 heart_rate 82'
+01:47.172	ID:17	DATA send to 1 'temperature 37.70 oC oxygen_level 83 heart_rate 76'
+01:49.522	ID:2	DATA send to 1 'temperature 37.09 oC oxygen_level 90 heart_rate 31'
+01:53.078	ID:14	DATA send to 1 'temperature 34.01 oC oxygen_level 92 heart_rate 51'
+01:53.722	ID:1	DATA send to 1 'temperature 34.56 oC oxygen_level 85 heart_rate 58'
+01:55.384	ID:16	DATA send to 1 'temperature 35.77 oC oxygen_level 90 heart_rate 99'
+01:57.567	ID:13	DATA send to 1 'temperature 35.48 oC oxygen_level 97 heart_rate 94'
+01:58.588	ID:18	DATA send to 1 'temperature 37.85 oC oxygen_level 94 heart_rate 59'
+02:02.242	ID:17	DATA send to 1 'temperature 37.82 oC oxygen_level 95 heart_rate 32'
+02:03.505	ID:15	DATA send to 1 'temperature 36.66 oC oxygen_level 83 heart_rate 76'
+02:03.617	ID:4	DATA send to 1 'temperature 37.63 oC oxygen_level 88 heart_rate 61'
+02:03.932	ID:18	DATA send to 1 'temperature 36.85 oC oxygen_level 88 heart_rate 87'
+02:08.440	ID:1	DATA send to 1 'temperature 36.44 oC oxygen_level 83 heart_rate 62'
+02:08.519	ID:19	DATA send to 1 'temperature 36.34 oC oxygen_level 93 heart_rate 36'
+02:17.786	ID:13	DATA send to 1 'temperature 37.20 oC oxygen_level 95 heart_rate 26'
+02:22.247	ID:10	DATA send to 1 'temperature 36.01 oC oxygen_level 84 heart_rate 83'
+02:22.695	ID:20	DATA send to 1 'temperature 35.53 oC oxygen_level 90 heart_rate 83'
+02:26.422	ID:14	DATA send to 1 'temperature 36.93 oC oxygen_level 92 heart_rate 31'
+02:26.882	ID:7	DATA send to 1 'temperature 36.82 oC oxygen_level 99 heart_rate 44'
+02:30.952	ID:11	DATA send to 1 'temperature 37.74 oC oxygen_level 81 heart_rate 32'
+02:32.515	ID:20	DATA send to 1 'temperature 37.73 oC oxygen_level 82 heart_rate 55'
+02:35.623	ID:8	DATA send to 1 'temperature 36.55 oC oxygen_level 96 heart_rate 89'
+02:40.426	ID:12	DATA send to 1 'temperature 37.47 oC oxygen_level 98 heart_rate 77'
+02:40.453	ID:16	DATA send to 1 'temperature 37.87 oC oxygen_level 84 heart_rate 37'
+02:40.609	ID:17	DATA send to 1 'temperature 35.06 oC oxygen_level 91 heart_rate 28'
+02:45.329	ID:9	DATA send to 1 'temperature 34.59 oC oxygen_level 84 heart_rate 53'
+02:45.365	ID:2	DATA send to 1 'temperature 36.17 oC oxygen_level 90 heart_rate 51'
+02:49.662	ID:6	DATA send to 1 'temperature 37.09 oC oxygen_level 82 heart_rate 95'
+02:52.488	ID:19	DATA send to 1 'temperature 35.42 oC oxygen_level 81 heart_rate 88'
+02:54.775	ID:18	DATA send to 1 'temperature 34.17 oC oxygen_level 92 heart_rate 27'
+02:55.098	ID:3	DATA send to 1 'temperature 37.90 oC oxygen_level 97 heart_rate 96'
+02:57.015	ID:5	DATA send to 1 'temperature 36.84 oC oxygen_level 85 heart_rate 30'
+03:02.578	ID:17	DATA send to 1 'temperature 37.34 oC oxygen_level 93 heart_rate 64'
+03:02.659	ID:1	DATA send to 1 'temperature 36.88 oC oxygen_level 87 heart_rate 26'
+03:04.593	ID:10	DATA send to 1 'temperature 34.93 oC oxygen_level 98 heart_rate 79'
+03:05.957	ID:19	DATA send to 1 'temperature 34.26 oC oxygen_level 93 heart_rate 28'
+03:08.420	ID:11	DATA send to 1 'temperature 34.42 oC oxygen_level 97 heart_rate 28'
+03:13.020	ID:12	DATA send to 1 'temperature 35.91 oC oxygen_level 86 heart_rate 33'
+03:17.505	ID:13	DATA send to 1 'temperature 35.40 oC oxygen_level 91 heart_rate 78'
+03:17.992	ID:5	DATA send to 1 'temperature 37.29 oC oxygen_level 88 heart_rate 51'
+03:19.504	ID:6	DATA send to 1 'temperature 34.97 oC oxygen_level 90 heart_rate 75'
+03:22.509	ID:9	DATA send to 1 'temperature 37.56 oC oxygen_level 85 heart_rate 86'
+03:23.851	ID:7	DATA send to 1 'temperature 34.46 oC oxygen_level 89 heart_rate 80'
+03:24.359	ID:20	DATA send to 1 'temperature 34.38 oC oxygen_level 85 heart_rate 80'
+03:27.119	ID:18	DATA send to 1 'temperature 36.45 oC oxygen_level 86 heart_rate 79'
+03:27.717	ID:8	DATA send to 1 'temperature 35.95 oC oxygen_level 94 heart_rate 29'
+03:28.281	ID:16	DATA send to 1 'temperature 37.81 oC oxygen_level 90 heart_rate 47'
+03:30.963	ID:18	DATA send to 1 'temperature 36.41 oC oxygen_level 90 heart_rate 35'
+03:34.023	ID:20	DATA send to 1 'temperature 35.62 oC oxygen_level 87 heart_rate 60'
+03:34.708	ID:2	DATA send to 1 'temperature 36.37 oC oxygen_level 92 heart_rate 71'
+03:39.567	ID:3	DATA send to 1 'temperature 37.86 oC oxygen_level 81 heart_rate 76'
+03:43.211	ID:4	DATA send to 1 'temperature 37.35 oC oxygen_level 96 heart_rate 25'
+03:49.266	ID:14	DATA send to 1 'temperature 36.89 oC oxygen_level 90 heart_rate 83'
+03:52.926	ID:19	DATA send to 1 'temperature 34.38 oC oxygen_level 93 heart_rate 64'
+03:53.474	ID:15	DATA send to 1 'temperature 36.38 oC oxygen_level 95 heart_rate 32'
+03:54.047	ID:17	DATA send to 1 'temperature 34.66 oC oxygen_level 99 heart_rate 68'
+04:01.612	ID:14	DATA send to 1 'temperature 37.17 oC oxygen_level 96 heart_rate 39'
+04:04.723	ID:13	DATA send to 1 'temperature 34.56 oC oxygen_level 81 heart_rate 74'
+04:08.435	ID:10	DATA send to 1 'temperature 36.81 oC oxygen_level 84 heart_rate 67'
+04:14.848	ID:6	DATA send to 1 'temperature 34.45 oC oxygen_level 98 heart_rate 79'
+04:15.394	ID:19	DATA send to 1 'temperature 36.18 oC oxygen_level 91 heart_rate 52'
+04:19.016	ID:17	DATA send to 1 'temperature 35.27 oC oxygen_level 82 heart_rate 73'
+04:20.307	ID:18	DATA send to 1 'temperature 35.65 oC oxygen_level 82 heart_rate 47'
+04:21.552	ID:2	DATA send to 1 'temperature 37.45 oC oxygen_level 86 heart_rate 51'
+04:21.992	ID:20	DATA send to 1 'temperature 35.97 oC oxygen_level 98 heart_rate 87'
+04:24.378	ID:1	DATA send to 1 'temperature 34.84 oC oxygen_level 87 heart_rate 86'
+04:30.943	ID:15	DATA send to 1 'temperature 36.42 oC oxygen_level 95 heart_rate 60'
+04:33.485	ID:16	DATA send to 1 'temperature 35.66 oC oxygen_level 81 heart_rate 24'
+04:35.113	ID:12	DATA send to 1 'temperature 35.31 oC oxygen_level 82 heart_rate 53'
+04:35.363	ID:19	DATA send to 1 'temperature 36.86 oC oxygen_level 89 heart_rate 32'
+04:37.389	ID:11	DATA send to 1 'temperature 34.06 oC oxygen_level 83 heart_rate 32'
+04:37.485	ID:9	DATA send to 1 'temperature 34.72 oC oxygen_level 87 heart_rate 42'
+04:37.898	ID:17	DATA send to 1 'temperature 35.39 oC oxygen_level 84 heart_rate 37'
+04:41.311	ID:8	DATA send to 1 'temperature 36.31 oC oxygen_level 96 heart_rate 25'
+04:42.734	ID:20	DATA send to 1 'temperature 36.49 oC oxygen_level 90 heart_rate 91'
+04:44.319	ID:7	DATA send to 1 'temperature 35.70 oC oxygen_level 97 heart_rate 60'
+04:48.305	ID:4	DATA send to 1 'temperature 37.95 oC oxygen_level 90 heart_rate 93'
+04:49.562	ID:5	DATA send to 1 'temperature 35.14 oC oxygen_level 91 heart_rate 92'
+04:51.536	ID:3	DATA send to 1 'temperature 36.70 oC oxygen_level 85 heart_rate 72'
+04:59.150	ID:18	DATA send to 1 'temperature 37.29 oC oxygen_level 88 heart_rate 51'
+05:02.707	ID:12	DATA send to 1 'temperature 36.87 oC oxygen_level 92 heart_rate 41'
+05:04.648	ID:16	DATA send to 1 'temperature 35.95 oC oxygen_level 84 heart_rate 37'
+05:04.832	ID:19	DATA send to 1 'temperature 37.14 oC oxygen_level 85 heart_rate 84'
+05:15.352	ID:5	DATA send to 1 'temperature 36.28 oC oxygen_level 81 heart_rate 78'
+05:20.492	ID:17	DATA send to 1 'temperature 37.88 oC oxygen_level 83 heart_rate 94'
+05:22.899	ID:4	DATA send to 1 'temperature 36.31 oC oxygen_level 84 heart_rate 49'
+05:25.494	ID:18	DATA send to 1 'temperature 37.89 oC oxygen_level 86 heart_rate 55'
+05:25.597	ID:1	DATA send to 1 'temperature 34.16 oC oxygen_level 89 heart_rate 66'
+05:28.404	ID:8	DATA send to 1 'temperature 34.91 oC oxygen_level 96 heart_rate 93'
+05:30.077	ID:20	DATA send to 1 'temperature 35.31 oC oxygen_level 96 heart_rate 37'
+05:33.897	ID:2	DATA send to 1 'temperature 37.33 oC oxygen_level 96 heart_rate 55'
+05:39.204	ID:9	DATA send to 1 'temperature 37.96 oC oxygen_level 89 heart_rate 78'
+05:39.692	ID:6	DATA send to 1 'temperature 35.93 oC oxygen_level 82 heart_rate 99'
+05:43.005	ID:3	DATA send to 1 'temperature 35.14 oC oxygen_level 93 heart_rate 60'
+05:43.442	ID:13	DATA send to 1 'temperature 36.68 oC oxygen_level 83 heart_rate 86'
+05:45.779	ID:10	DATA send to 1 'temperature 37.89 oC oxygen_level 94 heart_rate 87'
+05:48.288	ID:7	DATA send to 1 'temperature 37.10 oC oxygen_level 99 heart_rate 48'
+05:49.970	ID:17	DATA send to 1 'temperature 34.88 oC oxygen_level 95 heart_rate 34'
+05:51.454	ID:14	DATA send to 1 'temperature 34.49 oC oxygen_level 90 heart_rate 35'
+05:52.906	ID:20	DATA send to 1 'temperature 37.35 oC oxygen_level 96 heart_rate 73'
+05:53.801	ID:19	DATA send to 1 'temperature 35.90 oC oxygen_level 93 heart_rate 64'
+05:53.858	ID:11	DATA send to 1 'temperature 35.70 oC oxygen_level 85 heart_rate 92'
+05:59.338	ID:18	DATA send to 1 'temperature 34.89 oC oxygen_level 88 heart_rate 99'
+05:59.912	ID:15	DATA send to 1 'temperature 37.66 oC oxygen_level 97 heart_rate 80'
+06:02.037	ID:6	DATA send to 1 'temperature 36.69 oC oxygen_level 90 heart_rate 87'
+06:09.661	ID:13	DATA send to 1 'temperature 37.20 oC oxygen_level 91 heart_rate 42'
+06:10.315	ID:1	DATA send to 1 'temperature 37.48 oC oxygen_level 91 heart_rate 94'
+06:13.867	ID:5	DATA send to 1 'temperature 34.65 oC oxygen_level 90 heart_rate 51'
+06:15.687	ID:17	DATA send to 1 'temperature 35.32 oC oxygen_level 81 heart_rate 78'
+06:15.801	ID:12	DATA send to 1 'temperature 35.87 oC oxygen_level 98 heart_rate 53'
+06:16.998	ID:8	DATA send to 1 'temperature 34.63 oC oxygen_level 86 heart_rate 49'
+06:17.656	ID:16	DATA send to 1 'temperature 36.85 oC oxygen_level 94 heart_rate 39'
+06:18.999	ID:20	DATA send to 1 'temperature 37.84 oC oxygen_level 87 heart_rate 58'
+06:23.757	ID:7	DATA send to 1 'temperature 34.66 oC oxygen_level 83 heart_rate 60'
+06:24.380	ID:15	DATA send to 1 'temperature 35.14 oC oxygen_level 81 heart_rate 44'
+06:24.682	ID:18	DATA send to 1 'temperature 35.89 oC oxygen_level 94 heart_rate 87'
+06:28.423	ID:9	DATA send to 1 'temperature 35.67 oC oxygen_level 98 heart_rate 73'
+06:30.269	ID:19	DATA send to 1 'temperature 36.90 oC oxygen_level 83 heart_rate 44'
+06:30.797	ID:14	DATA send to 1 'temperature 37.17 oC oxygen_level 88 heart_rate 71'
+06:31.740	ID:2	DATA send to 1 'temperature 37.45 oC oxygen_level 94 heart_rate 27'
+06:32.906	ID:17	DATA send to 1 'temperature 34.96 oC oxygen_level 89 heart_rate 90'
+06:43.101	ID:20	DATA send to 1 'temperature 34.20 oC oxygen_level 89 heart_rate 46'
+06:45.526	ID:18	DATA send to 1 'temperature 34.65 oC oxygen_level 84 heart_rate 91'
+06:46.238	ID:19	DATA send to 1 'temperature 35.98 oC oxygen_level 87 heart_rate 24'
+06:46.992	ID:4	DATA send to 1 'temperature 35.39 oC oxygen_level 90 heart_rate 85'
+06:53.827	ID:11	DATA send to 1 'temperature 35.90 oC oxygen_level 95 heart_rate 80'
+06:53.973	ID:3	DATA send to 1 'temperature 35.42 oC oxygen_level 97 heart_rate 96'
+07:00.622	ID:10	DATA send to 1 'temperature 37.93 oC oxygen_level 92 heart_rate 51'
+07:06.726	ID:7	DATA send to 1 'temperature 37.98 oC oxygen_level 99 heart_rate 88'
+07:07.859	ID:16	DATA send to 1 'temperature 36.87 oC oxygen_level 88 heart_rate 49'
+07:09.879	ID:6	DATA send to 1 'temperature 35.45 oC oxygen_level 90 heart_rate 83'
+07:11.379	ID:13	DATA send to 1 'temperature 37.08 oC oxygen_level 87 heart_rate 22'
+07:14.395	ID:12	DATA send to 1 'temperature 34.55 oC oxygen_level 94 heart_rate 57'
+07:15.625	ID:17	DATA send to 1 'temperature 37.80 oC oxygen_level 85 heart_rate 22'
+07:22.320	ID:20	DATA send to 1 'temperature 34.41 oC oxygen_level 88 heart_rate 51'
+07:24.442	ID:3	DATA send to 1 'temperature 36.58 oC oxygen_level 83 heart_rate 68'
+07:25.707	ID:19	DATA send to 1 'temperature 37.22 oC oxygen_level 99 heart_rate 28'
+07:27.083	ID:2	DATA send to 1 'temperature 34.05 oC oxygen_level 84 heart_rate 63'
+07:27.869	ID:18	DATA send to 1 'temperature 35.09 oC oxygen_level 86 heart_rate 39'
+07:30.534	ID:1	DATA send to 1 'temperature 36.88 oC oxygen_level 85 heart_rate 98'
+07:31.092	ID:8	DATA send to 1 'temperature 35.15 oC oxygen_level 98 heart_rate 37'
+07:32.349	ID:15	DATA send to 1 'temperature 36.78 oC oxygen_level 85 heart_rate 32'
+07:35.641	ID:14	DATA send to 1 'temperature 34.25 oC oxygen_level 86 heart_rate 27'
+07:36.676	ID:19	DATA send to 1 'temperature 37.50 oC oxygen_level 91 heart_rate 64'
+07:45.978	ID:9	DATA send to 1 'temperature 37.36 oC oxygen_level 85 heart_rate 90'
+07:48.586	ID:4	DATA send to 1 'temperature 35.75 oC oxygen_level 82 heart_rate 73'
+07:49.295	ID:11	DATA send to 1 'temperature 37.38 oC oxygen_level 95 heart_rate 52'
+07:49.845	ID:17	DATA send to 1 'temperature 35.28 oC oxygen_level 83 heart_rate 74'
+07:52.968	ID:10	DATA send to 1 'temperature 34.85 oC oxygen_level 96 heart_rate 47'
+07:53.937	ID:5	DATA send to 1 'temperature 36.43 oC oxygen_level 94 heart_rate 29'
+07:55.713	ID:18	DATA send to 1 'temperature 36.65 oC oxygen_level 88 heart_rate 35'
+07:57.640	ID:20	DATA send to 1 'temperature 35.09 oC oxygen_level 86 heart_rate 79'
+08:02.411	ID:3	DATA send to 1 'temperature 35.82 oC oxygen_level 99 heart_rate 64'
+08:03.562	ID:17	DATA send to 1 'temperature 35.72 oC oxygen_level 83 heart_rate 38'
+08:05.986	ID:14	DATA send to 1 'temperature 36.37 oC oxygen_level 96 heart_rate 63'
+08:07.680	ID:4	DATA send to 1 'temperature 35.39 oC oxygen_level 84 heart_rate 85'
+08:11.818	ID:15	DATA send to 1 'temperature 37.94 oC oxygen_level 97 heart_rate 84'
+08:13.484	ID:20	DATA send to 1 'temperature 34.94 oC oxygen_level 85 heart_rate 88'
+08:15.765	ID:5	DATA send to 1 'temperature 36.20 oC oxygen_level 83 heart_rate 86'
+08:19.057	ID:18	DATA send to 1 'temperature 37.57 oC oxygen_level 94 heart_rate 71'
+08:19.223	ID:6	DATA send to 1 'temperature 36.53 oC oxygen_level 96 heart_rate 31'
+08:21.144	ID:19	DATA send to 1 'temperature 34.50 oC oxygen_level 95 heart_rate 68'
+08:25.194	ID:7	DATA send to 1 'temperature 34.74 oC oxygen_level 81 heart_rate 52'
+08:29.079	ID:9	DATA send to 1 'temperature 37.63 oC oxygen_level 98 heart_rate 45'
+08:30.686	ID:8	DATA send to 1 'temperature 34.31 oC oxygen_level 82 heart_rate 73'
+08:36.781	ID:17	DATA send to 1 'temperature 37.60 oC oxygen_level 91 heart_rate 82'
+08:40.648	ID:20	DATA send to 1 'temperature 37.46 oC oxygen_level 81 heart_rate 36'
+08:42.810	ID:10	DATA send to 1 'temperature 37.45 oC oxygen_level 88 heart_rate 75'
+08:43.900	ID:18	DATA send to 1 'temperature 35.61 oC oxygen_level 90 heart_rate 91'
+08:44.437	ID:16	DATA send to 1 'temperature 36.57 oC oxygen_level 86 heart_rate 59'
+08:48.264	ID:11	DATA send to 1 'temperature 35.66 oC oxygen_level 99 heart_rate 40'
+08:50.253	ID:1	DATA send to 1 'temperature 36.04 oC oxygen_level 93 heart_rate 22'
+08:54.488	ID:12	DATA send to 1 'temperature 35.23 oC oxygen_level 90 heart_rate 21'
+08:55.113	ID:19	DATA send to 1 'temperature 35.50 oC oxygen_level 81 heart_rate 64'
+08:55.927	ID:2	DATA send to 1 'temperature 37.61 oC oxygen_level 88 heart_rate 83'
+09:00.598	ID:13	DATA send to 1 'temperature 36.80 oC oxygen_level 85 heart_rate 42'
+09:02.067	ID:6	DATA send to 1 'temperature 36.97 oC oxygen_level 88 heart_rate 75'
+09:03.879	ID:3	DATA send to 1 'temperature 35.22 oC oxygen_level 81 heart_rate 44'
+09:05.500	ID:17	DATA send to 1 'temperature 35.73 oC oxygen_level 86 heart_rate 39'
+09:06.617	ID:20	DATA send to 1 'temperature 35.97 oC oxygen_level 84 heart_rate 95'
+09:08.244	ID:18	DATA send to 1 'temperature 34.05 oC oxygen_level 82 heart_rate 39'
+09:08.582	ID:19	DATA send to 1 'temperature 37.86 oC oxygen_level 99 heart_rate 92'
+09:09.317	ID:13	DATA send to 1 'temperature 35.00 oC oxygen_level 81 heart_rate 38'
+09:10.154	ID:10	DATA send to 1 'temperature 36.61 oC oxygen_level 84 heart_rate 23'
+09:11.163	ID:7	DATA send to 1 'temperature 34.86 oC oxygen_level 87 heart_rate 48'
+09:17.829	ID:14	DATA send to 1 'temperature 36.25 oC oxygen_level 90 heart_rate 67'
+09:18.733	ID:11	DATA send to 1 'temperature 37.86 oC oxygen_level 83 heart_rate 92'
+09:26.786	ID:15	DATA send to 1 'temperature 37.50 oC oxygen_level 89 heart_rate 40'
+09:28.082	ID:12	DATA send to 1 'temperature 35.75 oC oxygen_level 82 heart_rate 25'
+09:32.390	ID:16	DATA send to 1 'temperature 36.34 oC oxygen_level 83 heart_rate 92'
+09:35.551	ID:19	DATA send to 1 'temperature 36.46 oC oxygen_level 97 heart_rate 64'
+09:41.742	ID:5	DATA send to 1 'temperature 37.29 oC oxygen_level 90 heart_rate 59'
+09:44.274	ID:4	DATA send to 1 'temperature 34.47 oC oxygen_level 90 heart_rate 73'
+09:45.471	ID:1	DATA send to 1 'temperature 36.08 oC oxygen_level 83 heart_rate 98'
+09:50.088	ID:18	DATA send to 1 'temperature 36.33 oC oxygen_level 90 heart_rate 35'
+09:51.779	ID:8	DATA send to 1 'temperature 34.11 oC oxygen_level 86 heart_rate 21'
+09:53.259	ID:9	DATA send to 1 'temperature 37.35 oC oxygen_level 98 heart_rate 41'
+09:54.272	ID:2	DATA send to 1 'temperature 37.33 oC oxygen_level 82 heart_rate 31'
+09:55.445	ID:17	DATA send to 1 'temperature 35.69 oC oxygen_level 90 heart_rate 51'
+09:55.859	ID:20	DATA send to 1 'temperature 37.61 oC oxygen_level 92 heart_rate 59'
+10:02.367	ID:4	DATA send to 1 'temperature 34.67 oC oxygen_level 90 heart_rate 61'
+10:03.432	ID:18	DATA send to 1 'temperature 37.33 oC oxygen_level 82 heart_rate 23'
+10:08.848	ID:3	DATA send to 1 'temperature 35.66 oC oxygen_level 95 heart_rate 56'
